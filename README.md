@@ -1,2 +1,2 @@
-# Designs-
+# Designs
 Links to my designs 
