@@ -6,8 +6,11 @@ Links to my designs.
 Description: 
 
 -Project for HCI course.
+
 -Created to minimize food waste and enable contact with proper areas of disposal. 
+
 -The app is used by restaurants and cafeterias, as well as customers. 
+
 -By choosing the meal beforehand, and making the process of contacting easy, the app is involved in the process 
 of food-waste reduction and contributes to a better environment.
 
